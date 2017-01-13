@@ -1,0 +1,9 @@
+0. Rename the director build to target (if necessary)
+
+1. ./start-main-container.sh
+
+2. ./start-seller.sh localhost nameAgent (ex: ./start-seller.sh localhost seller1)
+
+3. Enter some products
+
+4. ./start-buyer.sh localhost nameAgent Product (ex: ./start-buyer.sh localhost buyer product1)
