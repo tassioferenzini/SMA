@@ -111,7 +111,7 @@ public class AgentSell extends Agent {
                         int nprice = (int) (price * 1.20);
                         catalogue.replace(title, price, nprice);
                     } else {
-                        int nprice = (int) (price * 0.90);
+                        int nprice = (int) (price * 0.80);
                         catalogue.replace(title, price, nprice);
                     }
                 } else {
@@ -145,7 +145,7 @@ public class AgentSell extends Agent {
                         int nprice = (int) (price * 1.20);
                         catalogue.replace(title, price, nprice);
                     } else {
-                        int nprice = (int) (price * 0.90);
+                        int nprice = (int) (price * 0.80);
                         catalogue.replace(title, price, nprice);
                     }
                 } else {
