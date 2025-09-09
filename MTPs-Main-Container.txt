@@ -1,1 +1,1 @@
-http://LAPTOP-TFMS:7778/acc
+http://localhost:7778/acc
